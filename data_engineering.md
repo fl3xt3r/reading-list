@@ -7,5 +7,7 @@
   - "The hardware and software is less of a constraint, and a few lines of code nowadays can be powerful, but *now the primary constraint is having the data.*"
 - **[ETL Principles](https://gtoonstra.github.io/etl-with-airflow/principles.html)**
 - **[Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)**
+- [Mutable Data in Hive's Immutable World](https://www.slideshare.net/lestermartin/mutable-data-in-hives-immutable-world)
+  - [Slide 37](https://image.slidesharecdn.com/mutabledatainhive-150612041550-lva1-app6892/95/mutable-data-in-hives-immutable-world-37-638.jpg?cb=1487819448) provides an Active Archive strategy review in table format
 - [The rise of immutable data stores](http://usblogs.pwc.com/emerging-technology/the-rise-of-immutable-data-stores/)
 - **[The Rise of the Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)**
