@@ -4,7 +4,6 @@
 - [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
   - [A Beginner’s Guide to Data Engineering — Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
   - [A Beginner’s Guide to Data Engineering — The Series Finale](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
-- [Airflow vs. AWS Glue](https://www.astronomer.io/guides/airflow-vs-aws-glue/)
 - [Creating a big data canvas with NoSQL](http://usblogs.pwc.com/emerging-technology/creating-a-big-data-canvas-with-nosql/)
   - "The hardware and software is less of a constraint, and a few lines of code nowadays can be powerful, but *now the primary constraint is having the data.*"
 - **[Designing a Modern Data Warehouse & Data Lake](https://static1.squarespace.com/static/52d1b75de4b0ed895b7e7de9/t/59e3bd8464b05fe9e6bbe969/1508097416856/DesigningAModernDWandDataLake_MelissaCoates.pdf)**
@@ -18,3 +17,6 @@
 
 ## Spark
 - **[Spark performance tuning from the trenches](https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60)**
+
+## Orchestration
+- [Airflow vs. AWS Glue](https://www.astronomer.io/guides/airflow-vs-aws-glue/)
