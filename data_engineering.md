@@ -4,3 +4,4 @@
 - [A Beginner’s Guide to Data Engineering — The Series Finale](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
 - [Airflow vs. AWS Glue](https://www.astronomer.io/guides/airflow-vs-aws-glue/)
 - **[ETL Principles](https://gtoonstra.github.io/etl-with-airflow/principles.html)**
+- **[The Rise of the Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)
