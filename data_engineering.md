@@ -1,7 +1,7 @@
 # Data Engineering
 - [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
-- [A Beginner’s Guide to Data Engineering — Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
-- [A Beginner’s Guide to Data Engineering — The Series Finale](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
+  - [A Beginner’s Guide to Data Engineering — Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
+  - [A Beginner’s Guide to Data Engineering — The Series Finale](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
 - [Airflow vs. AWS Glue](https://www.astronomer.io/guides/airflow-vs-aws-glue/)
 - [Creating a big data canvas with NoSQL](http://usblogs.pwc.com/emerging-technology/creating-a-big-data-canvas-with-nosql/)
   - "The hardware and software is less of a constraint, and a few lines of code nowadays can be powerful, but *now the primary constraint is having the data.*"
@@ -11,3 +11,4 @@
   - [Slide 37](https://image.slidesharecdn.com/mutabledatainhive-150612041550-lva1-app6892/95/mutable-data-in-hives-immutable-world-37-638.jpg?cb=1487819448) provides an Active Archive strategy review in table format
 - [The rise of immutable data stores](http://usblogs.pwc.com/emerging-technology/the-rise-of-immutable-data-stores/)
 - **[The Rise of the Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)**
+  - **[The Downfall of the Data Engineer](https://medium.com/@maximebeauchemin/the-downfall-of-the-data-engineer-5bfb701e5d6b)**
