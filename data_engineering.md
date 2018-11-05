@@ -5,4 +5,5 @@
 - [Airflow vs. AWS Glue](https://www.astronomer.io/guides/airflow-vs-aws-glue/)
 - **[ETL Principles](https://gtoonstra.github.io/etl-with-airflow/principles.html)**
 - **[Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)**
+- [The rise of immutable data stores](http://usblogs.pwc.com/emerging-technology/the-rise-of-immutable-data-stores/)
 - **[The Rise of the Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)**
