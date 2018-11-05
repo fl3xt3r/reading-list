@@ -17,6 +17,7 @@
 
 ## Spark
 - **[Spark performance tuning from the trenches](https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60)**
+- **[Best Practices Writing Production-Grade PySpark Jobs](https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f)**
 
 ## Orchestration
 - [Airflow vs. AWS Glue](https://www.astronomer.io/guides/airflow-vs-aws-glue/)
