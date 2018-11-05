@@ -4,7 +4,7 @@
 - [A Beginner’s Guide to Data Engineering — The Series Finale](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
 - [Airflow vs. AWS Glue](https://www.astronomer.io/guides/airflow-vs-aws-glue/)
 - [Creating a big data canvas with NoSQL](http://usblogs.pwc.com/emerging-technology/creating-a-big-data-canvas-with-nosql/)
-  - "The hardware and software is less of a constraint, and a few lines of code nowadays can be powerful, but now the primary constraint is having the data."
+  - "The hardware and software is less of a constraint, and a few lines of code nowadays can be powerful, but ***now the primary constraint is having the data.***"
 - **[ETL Principles](https://gtoonstra.github.io/etl-with-airflow/principles.html)**
 - **[Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)**
 - [The rise of immutable data stores](http://usblogs.pwc.com/emerging-technology/the-rise-of-immutable-data-stores/)
