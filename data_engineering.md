@@ -1,4 +1,6 @@
 # Data Engineering
+
+## General Practices
 - [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
   - [A Beginner’s Guide to Data Engineering — Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
   - [A Beginner’s Guide to Data Engineering — The Series Finale](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
@@ -13,3 +15,6 @@
 - [The rise of immutable data stores](http://usblogs.pwc.com/emerging-technology/the-rise-of-immutable-data-stores/)
 - **[The Rise of the Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)**
   - **[The Downfall of the Data Engineer](https://medium.com/@maximebeauchemin/the-downfall-of-the-data-engineer-5bfb701e5d6b)**
+
+## Spark
+- **[Spark performance tuning from the trenches](https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60)**
